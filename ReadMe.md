@@ -8,7 +8,7 @@ A projektben NodePackage Managert használtam, így az **npm install** paranccsa
 
 ## Futtatás
 
-A projekt ViteJS alapokon nyugszik. Telepítés után az **npm run dev** kóddal lehet fejlesztői környezetben futtatni az oldalt. Illetve az **npm run preview** paranccsal előnézetben, nem fejlesztői környezetben is megtekinthető a projek.
+A projekt ViteJS alapokon nyugszik. Telepítés után az **npm run dev** kóddal lehet fejlesztői környezetben futtatni az oldalt. Illetve az **npm run preview** paranccsal előnézetben, nem fejlesztői környezetben is megtekinthető a projek (Build után).
 
 ## Fordítás
 
